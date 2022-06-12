@@ -1,4 +1,4 @@
-# Investigae-TMDB-DATASET
+# Investigate-TMDB-DATASET
 In this project we intend to clean and analyze TMDB movie datatset
 
 # installation
